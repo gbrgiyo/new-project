@@ -39,7 +39,4 @@
 17. Check the status, make sure everything is up to date.
     Push the changes to the new branch
 
-        git push new-project main
-        git remote add origin https://github.com/gbrgiyo/new-project.git
-        git push new-project main
-        git push -u origin main
+         git push -u origin main
